@@ -3,17 +3,17 @@
   "name": "Hubid",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "3d00b18c026c785e3fe3b73a8d47c8f1.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "6e201707f00cd3d1f75f09cc0f7ded8f.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "150c7f81dc174ac101acebfbec7dadf8.png",
       "type": "image/png",
       "sizes": "512x512"
     }
