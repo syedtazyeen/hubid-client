@@ -11,12 +11,12 @@
     {
       "src": "6e201707f00cd3d1f75f09cc0f7ded8f.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192 16x16"
     },
     {
       "src": "150c7f81dc174ac101acebfbec7dadf8.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512 16x16"
     }
   ],
   "start_url": "/",
